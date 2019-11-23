@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/tabish/mean_projects/hackathons/nko2019-semicolon/logs/.eae3dc9f06f6f81f5cd888d2307e60a65bc2f0fb-audit.json",
+    "files": [
+        {
+            "date": 1574489230602,
+            "name": "/home/tabish/mean_projects/hackathons/nko2019-semicolon/logs/activity.log.2019-11-23",
+            "hash": "0b2455cea581a8ac05c4179f450879b8"
+        }
+    ]
+}
